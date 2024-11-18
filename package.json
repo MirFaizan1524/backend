@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-     "dev":"nodemon src/index.js "
+    "dev": "nodemon src/index.js "
   },
   "keywords": [
     "modelling",
@@ -19,6 +19,7 @@
     "mongoose": "^8.8.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
   }
 }
